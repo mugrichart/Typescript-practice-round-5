@@ -1,1 +1,1 @@
-Practicing Typescript 
+Playground for Practicing Typescript 
